@@ -1,0 +1,20 @@
+Name,Education,JoiningYear,City,PaymentTier,Age,Gender,EverBenched,ExperienceInCurrentDomain,LeaveOrNot
+Esti,Bachelors,2017,Bangalore,3,34,Male,No,0,0
+Luisa,Bachelors,2013,Pune,1,28,Female,No,3,1
+Noah,Bachelors,2014,New Delhi,3,38,Female,No,2,0
+Jules,Masters,2016,Bangalore,3,27,Male,No,5,1
+Dane,Masters,2017,Pune,3,24,Male,Yes,2,1
+Ari,Bachelors,2016,Bangalore,3,22,Male,No,0,0
+Cal,Bachelors,2015,New Delhi,3,38,Male,No,0,0
+Ayla,Bachelors,2016,Bangalore,3,34,Female,No,2,1
+Beau,Bachelors,2016,Pune,3,23,Male,No,1,0
+Arlo,Masters,2017,New Delhi,2,37,Male,No,2,0
+Edi,Masters,2012,Bangalore,3,27,Male,No,5,1
+Cora,Bachelors,2016,Pune,3,34,Male,No,3,0
+Ames,Bachelors,2018,Pune,3,32,Male,Yes,5,1
+Darcy,Bachelors,2016,Bangalore,3,39,Male,No,2,0
+Dax,Bachelors,2012,Bangalore,3,37,Male,No,4,0
+Etta,Bachelors,2017,Bangalore,1,29,Male,No,3,0
+Clif,Bachelors,2014,Bangalore,3,34,Female,No,2,0
+Emmy,Bachelors,2014,Pune,3,34,Male,No,4,0
+Ian,Bachelors,2015,Pune,2,30,Female,No,0,1
